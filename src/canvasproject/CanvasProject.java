@@ -28,7 +28,7 @@ public class CanvasProject extends Application {
     }
 
     /**
-     * This is an update.
+     * This is an .
      * @param args the command line arguments
      */
     public static void main(String[] args) {
