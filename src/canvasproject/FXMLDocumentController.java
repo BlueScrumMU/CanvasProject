@@ -21,6 +21,8 @@ public class FXMLDocumentController implements Initializable {
     @FXML
     private Label label;
     
+    // This is a test
+    
     @FXML
     private void handleButtonAction(ActionEvent event) {
         System.out.println("You clicked me!");
